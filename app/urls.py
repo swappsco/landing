@@ -7,7 +7,7 @@ from wagtail.wagtaildocs import urls as wagtaildocs_urls
 from wagtail.wagtailcore import urls as wagtail_urls
 
 from app.search import views as search_views
-
+from django.views.generic.base import RedirectView
 
 urlpatterns = [
     url(r'^django-admin/', include(admin.site.urls)),
@@ -16,7 +16,7 @@ urlpatterns = [
     url(r'^documents/', include(wagtaildocs_urls)),
 
     url(r'^search/$', search_views.search, name='search'),
-
+    url(r'^favicon\.ico$', RedirectView.as_view(url='/static/ico/favicon.ico') ),
 ]
 
 
