@@ -39,5 +39,5 @@ Landing page for PyCon
 
 ### Contributors
 
-This repo is supported by [@jvacx](http://jvacx.com). and ...
-If you want to help us, please contact us: **@python_colombia**
+
+If you want to help us, please contact us: **pyconcolombia@gmail.com**

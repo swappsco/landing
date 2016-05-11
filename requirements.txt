@@ -7,3 +7,8 @@ django-libsass==0.6
 libsass==0.8.3
 Pillow==2.9.0
 whitenoise==2.0.4
+
+# Production dependencies
+dj-database-url==0.3.0
+uwsgi==2.0.11.2
+ConcurrentLogHandler==0.9.1
