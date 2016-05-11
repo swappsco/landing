@@ -1,1 +1,2 @@
-web: uwsgi --http :$PORT --module app.wsgi --master --offload-threads 1
+web: gunicorn app.wsgi --log-file -
+
