@@ -1,0 +1,29 @@
+{% extends 'layouts/base.html' %}
+
+{% block extrastyles %}{% endblock %}
+{% block extrahead %}{% endblock %}
+
+
+{% block title %}PyCon 2017{% endblock %}
+
+
+{% block content %}
+    {% include "sections/navbar.html" %}
+    {% include "sections/intro.html" %}
+
+    {% include "sections/about.html" %}
+
+    {# {% include "sections/speakers.html" %} #}
+    {% include "sections/organizers.html" %}
+
+    {# {% include "sections/schedule.html" %} #}
+    {# {% include "sections/register.html" %} #}
+
+    {% include "sections/location.html" %}
+
+    {% include "sections/sponsors.html" %}
+
+    {% include "sections/footer.html" %}
+
+{% endblock %}
+

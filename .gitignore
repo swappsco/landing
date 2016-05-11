@@ -8,3 +8,51 @@
 /.vagrant/
 /Vagrantfile.local
 /docs/_build/
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+
+
+# OSX Finder turds
+.DS_Store
+
+# C extensions
+*.so
+
+# dev DB
+*.db
+
+
+# Distribution / packaging
+.idea/
+.sass-cache/
+.vagrant/
+cache/
+
+# folders
+public/
+extras/
+env/
+var/
+node_modules/
+
+
+# Unit test / coverage reports
+coverage/
+.coverage
+.cache
+
+
+# Sphinx documentation
+docs/_build/
+
+# Config files
+config/credentials.yml
+config/servers.yml
+config/.environment
+config/.environment.bak
+
+
+

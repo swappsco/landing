@@ -1,0 +1,44 @@
+[
+    {
+        "full_name": "Gustavo Angulo",
+        "position": "Empresa & Cargo",
+        "bio": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis necessitatibus doloribus ",
+        "photo": "/static/img/organizers/gustavo.png"
+    },
+    {
+        "full_name": "Jhon Roa",
+        "position": "Empresa & Cargo",
+        "bio": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis necessitatibus doloribus ",
+        "photo": "/static/img/organizers/jhon.jpg"
+    },
+    {
+        "full_name": "Nicolás Molina",
+        "position": "Empresa & Cargo",
+        "bio": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis necessitatibus doloribus ",
+        "photo": "/static/img/organizers/nicolas.jpg"
+    },
+    {
+        "full_name": "Andrea Molina",
+        "position": "Empresa & Cargo",
+        "bio": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis necessitatibus doloribus ",
+        "photo": "/static/img/organizers/andrea.jpg"
+    },
+    {
+        "full_name": "Alejandro Correa",
+        "position": "Empresa & Cargo",
+        "bio": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis necessitatibus doloribus ",
+        "photo": "/static/img/organizers/alejandro.jpg"
+    },
+    {
+        "full_name": "Mario Morales",
+        "position": "Empresa & Cargo",
+        "bio": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis necessitatibus doloribus ",
+        "photo": "/static/img/organizers/mario.jpg"
+    },
+    {
+        "full_name": "Ivan Ramírez",
+        "position": "Empresa & Cargo",
+        "bio": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis necessitatibus doloribus ",
+        "photo": "/static/img/organizers/ivan.png"
+    }
+]
