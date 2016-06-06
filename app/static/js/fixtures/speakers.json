@@ -1,13 +1,23 @@
 [
     {
-        "full_name": "Algun speaker 1",
-        "position": "Empresa & Cargo",
-        "bio": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis necessitatibus doloribus "
+        "full_name": "Fernando Perez",
+        "position": "UC Berkeley, Berkeley Lab",
+        "bio": "Data Science, computing, applied math, physics. IPython creator, scientist at LBNL & UC Berkeley.",
+        "linkedin": "https://www.linkedin.com/in/fperezorg",
+        "twitter": "https://twitter.com/fperez_org",
+        "google_plus": "http://gplus.to/fperez",
+        "github": "https://github.com/fperez",
+        "photo": "/static/img/speakers/fperez.jpg",
+        "website": "http://fperez.org"
     },
     {
-        "full_name": "Algun speaker 2",
-        "position": "Empresa & Cargo",
-        "bio": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis necessitatibus doloribus "
+        "full_name": "Eric Holscher",
+        "position": "",
+        "bio": "Co-founder of Readthedocs and Writethedocs.",
+        "twitter": "https://twitter.com/ericholscher",
+        "github": "https://github.com/ericholscher",
+        "website": "http://ericholscher.com",
+        "photo": "/static/img/speakers/erich.jpg"
     },
     {
         "full_name": "Algun speaker 3",

@@ -2,7 +2,7 @@
 <div class="speakers-block" id="speakers-block">
     <div class="container">
         <div class="row" data-container="speakers">
-            <h4 class="main-title">Expositores</h4>
+            <h4 class="main-title">Speakers</h4>
 
             <div class="col l3 m6 s12" data-template="speaker">
 
@@ -28,7 +28,7 @@
                         </button>
 
                         <div class="card-face__avatar">
-                            <img src="{% static '/img/avatar_default.png' %}" width="110" height="110" draggable="false" />
+                            <img data-image="photo" src="{% static '/img/avatar_default.png' %}" width="110" height="110" draggable="false" />
                         </div>
 
                         <h2 class="card-face__name" data-value="full_name"></h2>
@@ -50,8 +50,13 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="" target="_blank" class="card-face__social speech" data-link="talk">
-                                    <i class="fa fa-file-o"></i>
+                                <a href="" target="_blank" class="card-face__social speech" data-link="linkedin">
+                                    <i class="fa fa-linkedin-square"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="" target="_blank" class="card-face__social speech" data-link="website">
+                                    <i class="fa fa-globe"></i>
                                 </a>
                             </li>
                         </div>
@@ -64,6 +69,8 @@
     </div>
 </div>
 
+{% comment %}
 <div class="more-speakers">
     <a class="btn waves-effect waves-light waves-teal  button-more">VER MAS</a>
 </div>
+{% endcomment %}
