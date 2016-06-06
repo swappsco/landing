@@ -18,15 +18,5 @@
         "github": "https://github.com/ericholscher",
         "website": "http://ericholscher.com",
         "photo": "/static/img/speakers/erich.jpg"
-    },
-    {
-        "full_name": "Algun speaker 3",
-        "position": "Empresa & Cargo",
-        "bio": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis necessitatibus doloribus "
-    },
-    {
-        "full_name": "Algun speaker 4",
-        "position": "Empresa & Cargo",
-        "bio": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis necessitatibus doloribus "
     }
 ]
