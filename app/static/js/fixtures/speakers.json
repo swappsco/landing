@@ -18,5 +18,14 @@
         "github": "https://github.com/ericholscher",
         "website": "http://ericholscher.com",
         "photo": "/static/img/speakers/erich.jpg"
+    },
+    {
+        "full_name": "Jacob Kaplan-Moss",
+        "position": "Work at 18F and co-own Revsys.",
+        "bio": "Core contributor to Django.",
+        "twitter": "https://twitter.com/jacobian",
+        "github": "https://github.com/jacobian",
+        "website": "https://jacobian.org",
+        "photo": "/static/img/speakers/jacob.jpg"
     }
 ]
