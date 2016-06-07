@@ -1,7 +1,7 @@
 [
     {
         "full_name": "Fernando Perez",
-        "position": "UC Berkeley, Berkeley Lab",
+        "position": "IPython creator",
         "bio": "Data Science, computing, applied math, physics. IPython creator, scientist at LBNL & UC Berkeley.",
         "linkedin": "https://www.linkedin.com/in/fperezorg",
         "twitter": "https://twitter.com/fperez_org",
@@ -12,7 +12,7 @@
     },
     {
         "full_name": "Eric Holscher",
-        "position": "",
+        "position": "Co-founder of Readthedocs",
         "bio": "Co-founder of Readthedocs and Writethedocs.",
         "twitter": "https://twitter.com/ericholscher",
         "github": "https://github.com/ericholscher",
@@ -21,7 +21,7 @@
     },
     {
         "full_name": "Jacob Kaplan-Moss",
-        "position": "Work at 18F and co-own Revsys.",
+        "position": "Django Co-Creator",
         "bio": "Core contributor to Django.",
         "twitter": "https://twitter.com/jacobian",
         "github": "https://github.com/jacobian",
