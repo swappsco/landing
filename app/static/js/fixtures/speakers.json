@@ -27,5 +27,15 @@
         "github": "https://github.com/jacobian",
         "website": "https://jacobian.org",
         "photo": "/static/img/speakers/jacob.jpg"
+    },
+    {
+        "full_name": "Elizabeth Ramirez",
+        "position": "New York Times Software Engineer",
+        "bio": "Electrical engineer, computer scientist, applied math, machine learning. New York Times Engineer.",
+        "linkedin": "https://www.linkedin.com/in/eramirem",
+        "twitter": "https://twitter.com/eramirem",
+        "github": "https://github.com/eramirem",
+        "website": "https://about.me/eramirem",
+        "photo": "/static/img/speakers/eramirez.jpg"
     }
 ]
